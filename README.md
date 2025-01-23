@@ -9,9 +9,9 @@ You can find the code for this project [here](http://localhost:8888/notebooks/fo
 ## Installation
 To follow this project, please install the following locally:
 
--JupyterLab
-=Python 3.8+
--Python packages
--pandas
--requests
--scikit-learn
+*(JupyterLab
+*Python 3.8+
+*Python packages
+*pandas
+*requests
+*scikit-learn
