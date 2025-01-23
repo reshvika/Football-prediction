@@ -1,7 +1,7 @@
 # Football-prediction
 In this project, we'll predict the winner of football matches in the English Premier League (EPL)
 # Code
-You can find the code for this project [here]("C:\Users\reshv\Downloads\football prediction.ipynb")
+You can find the code for this project [here](https://github.com/reshvika/Football-prediction/blob/main/football%20prediction.ipynb)
 
 # File overview:
 ### football prediction.ipynb - a Jupyter notebook that makes predictions.
