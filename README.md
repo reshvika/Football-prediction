@@ -3,15 +3,15 @@ In this project, we'll predict the winner of football matches in the English Pre
 # Code
 You can find the code for this project [here](http://localhost:8888/notebooks/football%20prediction.ipynb)
 
-#File overview:
-[prediction](football prediction.ipynb) - a Jupyter notebook that makes predictions.
+# File overview:
+### football prediction.ipynb - a Jupyter notebook that makes predictions.
 #Local Setup
-##Installation
+## Installation
 To follow this project, please install the following locally:
 
-JupyerLab
-Python 3.8+
-Python packages
-pandas
-requests
-scikit-learn
+-JupyterLab
+=Python 3.8+
+-Python packages
+-pandas
+-requests
+-scikit-learn
