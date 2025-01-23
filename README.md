@@ -5,7 +5,7 @@ You can find the code for this project [here](http://localhost:8888/notebooks/fo
 
 # File overview:
 ### football prediction.ipynb - a Jupyter notebook that makes predictions.
-#Local Setup
+# Local Setup
 ## Installation
 To follow this project, please install the following locally:
 
