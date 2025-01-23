@@ -2,7 +2,8 @@
 In this project, we'll predict the winner of football matches in the English Premier League (EPL)
 # Code
 You can find the code for this project [here](http://localhost:8888/notebooks/football%20prediction.ipynb)
-File overview:
+
+#File overview:
 [prediction](football prediction.ipynb) - a Jupyter notebook that makes predictions.
 #Local Setup
 ##Installation
